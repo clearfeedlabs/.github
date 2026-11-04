@@ -15,6 +15,7 @@ Reliable data feeds built on official and documented public sources. No logins, 
 - [311 Complaints by District](https://apify.com/clearfeedlabs/district-pain-point-tracker) ([examples](https://github.com/clearfeedlabs/district-pain-point-tracker-examples))
 - [Storm & Hail Leads by ZIP](https://apify.com/clearfeedlabs/storm-roofing-feed) ([examples](https://github.com/clearfeedlabs/storm-roofing-feed-examples))
 - [Retirement Place Scorer](https://apify.com/clearfeedlabs/retirement-place-scorer) ([examples](https://github.com/clearfeedlabs/retirement-place-scorer-examples))
+- [Open Dataset Finder](https://apify.com/clearfeedlabs/open-dataset-finder): search Data.gov, Socrata portals and Hugging Face at once ([examples](https://github.com/clearfeedlabs/open-dataset-finder-examples))
 
 Full directory: https://clearfeedlabs.com
 Apify Store: https://apify.com/clearfeedlabs
